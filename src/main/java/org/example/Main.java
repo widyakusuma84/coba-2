@@ -10,7 +10,7 @@ public class Main {
         String mahasiswaNIM = "123456789012345"; // Contoh NIM dengan panjang 15
 
         while (true) {
-            // Meminta pengguna untuk memilih jenis login atau exit
+            // Meminta pengguna untuk memilxih jenis login atau exit
             System.out.println("Silakan pilih jenis login atau ketik 'exit' untuk keluar:");
             System.out.println("1. Admin");
             System.out.println("2. Mahasiswa");
